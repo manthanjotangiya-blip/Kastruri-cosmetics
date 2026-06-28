@@ -184,3 +184,44 @@ margin:15px 0;
 .card button{
 width:100%;
 }}
+/* WHY CHOOSE */
+
+.why{
+padding:80px 10%;
+background:#fff0f6;
+text-align:center;
+}
+
+.why h2{
+font-size:42px;
+color:#d63384;
+margin-bottom:40px;
+}
+
+.why-box{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+gap:25px;
+}
+
+.feature{
+background:#fff;
+padding:30px;
+border-radius:18px;
+box-shadow:0 8px 20px rgba(0,0,0,.08);
+transition:.3s;
+}
+
+.feature:hover{
+transform:translateY(-10px);
+}
+
+.feature h3{
+color:#d63384;
+margin-bottom:15px;
+}
+
+.feature p{
+color:#666;
+line-height:24px;
+}
