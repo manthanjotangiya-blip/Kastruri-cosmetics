@@ -281,3 +281,14 @@ resize:none;
 <p>© 2026 Kastruri Cosmetics. All Rights Reserved.</p>
 
 </footer>
+
+.logo{
+    font-size:32px;
+    font-weight:bold;
+    color:#2E8B57;
+    letter-spacing:1px;
+}
+
+.logo span{
+    color:#d63384;
+}
