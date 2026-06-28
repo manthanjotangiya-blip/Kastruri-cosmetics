@@ -235,3 +235,36 @@ font-size:40px;
 color:#d63384;
 margin-bottom:40px;
 }
+/* CONTACT */
+
+.contact{
+padding:80px 10%;
+background:#fff0f6;
+text-align:center;
+}
+
+.contact h2{
+font-size:42px;
+color:#d63384;
+margin-bottom:30px;
+}
+
+.contact-box{
+max-width:700px;
+margin:auto;
+}
+
+.contact input,
+.contact textarea{
+width:100%;
+padding:15px;
+margin:15px 0;
+border:1px solid #ddd;
+border-radius:10px;
+font-size:16px;
+}
+
+.contact textarea{
+height:150px;
+resize:none;
+}
