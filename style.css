@@ -225,3 +225,13 @@ margin-bottom:15px;
 color:#666;
 line-height:24px;
 }
+.reviews{
+padding:80px 10%;
+text-align:center;
+}
+
+.reviews h2{
+font-size:40px;
+color:#d63384;
+margin-bottom:40px;
+}
