@@ -293,5 +293,12 @@ resize:none;
 }
 
 .logo span{
+
+.search-box input{
+    padding:10px 15px;
+    border-radius:25px;
+    border:1px solid #ddd;
+    width:220px;
+}
     color:#d63384;
 }
