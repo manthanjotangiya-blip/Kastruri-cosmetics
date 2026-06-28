@@ -25,6 +25,9 @@ header h1{
 color:#d63384;
 }
 
+<div class="search-box">
+    <input type="text" placeholder="Search Products...">
+</div>
 nav a{
 text-decoration:none;
 margin-left:25px;
